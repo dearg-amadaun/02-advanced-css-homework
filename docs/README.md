@@ -29,4 +29,9 @@ The skeleton for the html portion was probably ths simplest part. When it came t
 
 There are certain places I'm not entirely sure how or why something worked or didn't work even if I did get it to work in the end. I am certain there are redundancies and non semantic code in the style sheet and html that I will catch and streamline as I add to, and tweak this page over the coming months but right now it works. It meets the grading criteria (for the most part) and right now I consider that a victory!   
 
+
+**
+Hero image from Brandon Durgan photography.
+Will add an alt credit tag to the code as soon as I figure out how to do it.
+
  
