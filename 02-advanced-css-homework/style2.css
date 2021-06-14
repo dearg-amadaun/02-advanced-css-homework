@@ -1,0 +1,92 @@
+  * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+  }
+
+  body {
+    background-color: #cad2c5;
+    position: relative;
+    font-size: 20px;
+    font-family: Helvetica, Arial, sans-serif;
+    
+}
+  
+  header {
+    height: 100px;
+    width: 100%;
+    line-height: 50%;
+    background-color: #2f3e46;
+    padding: 2% 0%;
+    border-bottom: 10px solid #84a98c;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+  header h1 {
+    color: #cad2c5;
+    font-weight: bold;
+    font-size: 36px;
+    margin: 1%;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    font-size: 36px;
+    color: #cad2c5;
+    text-decoration: underline;
+  }
+  
+  .hero {
+    background: url(./assets/images/hero.jpeg);
+    position: relative;
+    width: 100vw;
+    height: 35vh;
+    background-size: cover;
+    background-position: center;
+    border-bottom: 3px solid #2f3e46;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+   }
+
+  .headshot {
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    border: #2f3e46 4px solid;
+    height: 250px;
+    width: 250px;
+
+  }
+
+
+
+
+
+  footer {
+  background-color: #2f3e46;
+  color: #cad2c5;
+  position: fixed;
+  margin-top: 0;
+  bottom: 0;
+  height: 60px;
+  width: 100%;
+  line-height: 50px;
+  border-bottom: 10px solid #84a98c;
+  text-align: center;
+}
+
+
