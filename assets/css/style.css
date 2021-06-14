@@ -51,7 +51,7 @@
   }
   
   .hero {
-    background: url(./assets/images/hero.jpeg);
+    background-image: url(../images/hero.jpeg);
     position: relative;
     width: 100vw;
     height: 35vh;
