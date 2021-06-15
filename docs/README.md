@@ -27,7 +27,10 @@ This was incredibly difficult to get started. At this point I still don't have a
 
 The skeleton for the html portion was probably ths simplest part. When it came to the css however there was a lot of throwing the kitchen sink at the various classes and tags to get things in order as well as trial and error tweaking in the chrome developer tools to see what looked good/right and setting the style sheet accordingly.  The same goes for utilizing flex.  
 
-There are certain places I'm not entirely sure how or why something worked or didn't work even if I did get it to work in the end. I am certain there are redundancies and non semantic code in the style sheet and html that I will catch and streamline as I add to, and tweak this page over the coming months but right now it works. It meets the grading criteria (for the most part) and right now I consider that a victory!   
+There are certain places I'm not entirely sure how or why something worked or didn't work even if I did get it to work in the end. I am certain there are redundancies and non semantic code in the style sheet and html that I will catch and streamline as I add to, and tweak this page over the coming months but right now it works. It meets the grading criteria (for the most part) and right now I consider that a victory!
+
+##Final thoughts
+Designing for  diifferent sized viewports is definitely something I need to work on more going forward.   
 
 
 **
