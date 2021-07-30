@@ -183,7 +183,7 @@ footer {
   margin-top: 15%;
 }
 
-/* Create two equal columns that floats next to each other */
+
 .column {
   float: left;
   width: 50%;
@@ -194,9 +194,13 @@ footer {
   margin-top: 12px;
 }
 
-/* Clear floats after the columns */
+
 .row:after {
   content: "";
   display: table;
   clear: both;
+}
+
+img {
+  border: #2f3e46 4px solid;
 }
