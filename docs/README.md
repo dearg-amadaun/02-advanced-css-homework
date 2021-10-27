@@ -1,6 +1,6 @@
 
   # First Portfolio.
-  ![redmegenerator](https://user-images.githubusercontent.com/83721789/134789416-99ddead7-66f2-43d8-8b77-443021d355e7.jpg)
+  ![redmegenerator](../assets/images/portfolioscreenshot.png)
 
   ## Table of Contents
   * [Description](#Description)
