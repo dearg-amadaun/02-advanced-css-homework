@@ -14,7 +14,7 @@
   ## License
             
   ## Description
-  Early design for an  initial webpage to act as a portfolio for us to add our work over the course of the program, so that we have a place to show our progress as well as our     skills.
+  Early design for an initial webpage to act as a portfolio for me to add work over the course of my bootcamp program.
 
   This was done at an early stage in bootcamp and is mostly raw html, css, and flex.
             
